@@ -1,5 +1,5 @@
 {
-    "name": "behat/web-api-extension",
+    "name": "unisharp/web-api-extension",
     "type": "behat-extension",
     "description": "Web API extension for Behat",
     "keywords": ["api", "test"],
@@ -13,6 +13,10 @@
         {
             "name": "Community contributors",
             "homepage": "https://github.com/Behat/WebApiExtension/graphs/contributors"
+        },
+        {
+            "name": "UniSharp Ltd.",
+            "homepage": "http://unisharp.com/"
         }
     ],
 
